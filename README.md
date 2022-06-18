@@ -4,12 +4,6 @@ yarn add -D eslint-config-react-mfv stylelint-config-sass-mfv typescript-config-
 ```
 
 ## Config: 
-.stylelintrc
-```
-{
-  "extends": ["stylelint-config-sass-mfv"]
-}
-```
 
 .eslintrc
 ```
@@ -25,5 +19,12 @@ tsconfig.json
   "extends": "typescript-config-mfv/tsconfig-react.json",
   "exclude": ["node_modules", ".next", "out", "dist", "build"],
   "include": ["./**/*.ts", "./**/*.tsx"]
+}
+```
+
+.stylelintrc
+```
+{
+  "extends": ["stylelint-config-sass-mfv"]
 }
 ```
