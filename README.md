@@ -1,6 +1,6 @@
 ## Install deps: 
 ```
-yarn add -D eslint-config-react-mfv stylelint-config-sass-mfv typescript-config-mfv
+yarn add -D eslint-config-react-mfv stylelint-config-sass-mfv typescript-config-mfv eslint prettier stylelint
 ```
 
 ## Config: 
