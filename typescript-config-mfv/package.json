@@ -1,0 +1,12 @@
+{
+  "name": "typescript-config-react-mfvhn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "react-typescript.json"
+  ]
+}
