@@ -1,6 +1,6 @@
 {
-  "name": "typescript-config-react-mfvhn",
-  "version": "1.0.0",
+  "name": "typescript-config-mfvhn",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
